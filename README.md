@@ -1,7 +1,7 @@
 # New-Wheels-Sales - SQL
 
 -----------------------------------
-New Wheels Data Dictionary
+Data Dictionary
 -----------------------------------
 
 shipper_id: Unique ID of the Shipper    
