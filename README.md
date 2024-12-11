@@ -1,4 +1,4 @@
-# New-Wheels-Sales - SQL
+New-Wheels-Sales
 
 -----------------------------------
 Data Dictionary
